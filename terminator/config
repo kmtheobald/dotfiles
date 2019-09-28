@@ -1,0 +1,20 @@
+[global_config]
+  inactive_color_offset = 0.694444444444
+  tab_position = bottom
+  title_transmit_bg_color = "#d3d7cf"
+[keybindings]
+[layouts]
+  [[default]]
+    [[[child1]]]
+      parent = window0
+      type = Terminal
+    [[[window0]]]
+      parent = ""
+      type = Window
+[plugins]
+[profiles]
+  [[default]]
+    background_darkness = 0.7
+    background_type = transparent
+    cursor_color = "#aaaaaa"
+    show_titlebar = False

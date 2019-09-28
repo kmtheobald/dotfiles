@@ -1,0 +1,7 @@
+rofi.theme:         	gruvbox-dark-soft
+rofi.font:          	hack 10
+rofi.modi:          	run,window
+rofi.lines:	    	5
+rofi.width:         	25
+rofi.tokenize:	    	false
+rofi.disable-history:	true
